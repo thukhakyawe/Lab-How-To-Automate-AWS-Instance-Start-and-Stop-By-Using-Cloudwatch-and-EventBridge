@@ -1,0 +1,1 @@
+# Lab-How-To-Automate-AWS-Instance-Start-and-Stop-By-Using-Cloudwatch-and-EventBridge
