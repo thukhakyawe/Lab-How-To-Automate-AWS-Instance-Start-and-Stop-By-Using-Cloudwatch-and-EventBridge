@@ -274,7 +274,7 @@ cron(30 21 * * ? *)
 
 ![alt text](image-32.png)
 
-- Click `Drop Draw Arrow` and choose `Constant (JSON text) then copy the following code to here
+- Click `Drop Down Arrow` and choose `Constant (JSON text) then copy the following code to here
 
 
 ```
@@ -333,7 +333,7 @@ cron(30 12 * * ? *)
 
 ![alt text](image-32.png)
 
-- Click `Drop Draw Arrow` and choose `Constant (JSON text) then copy the following code to here
+- Click `Drop Down Arrow` and choose `Constant (JSON text) then copy the following code to here
 
 
 ```
