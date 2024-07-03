@@ -366,5 +366,5 @@ cron(30 12 * * ? *)
 | 4:00 AM    | 7:00 PM   | cron(30 21 * * ? *) | cron(30 12 * * ? *) |
 
 ------
-**_That's it! You have finished How To Automate AWS Instance Start and Stop By Using Lambda and EventBridge._**
+**_That's it!.You have finished How To Automate AWS Instance Start and Stop By Using Lambda and EventBridge.Special Thanks to My SRE Team_**
 -----
